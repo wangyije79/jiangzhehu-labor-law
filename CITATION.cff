@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "如需引用本知识包，请使用以下信息。"
+title: "江浙沪入职合同顾问"
+abstract: >-
+  审查录用通知与劳动合同，提示未签合同、试用期陷阱、二倍工资风险，区分江浙沪三地口径，给出处理步骤。
+type: dataset
+authors:
+  - family-names: "德禾翰通"
+    affiliation: "上海德禾翰通律师事务所"
+version: "1.0.0"
+date-released: "2026-09-15"
+license: CC-BY-NC-ND-4.0
+keywords:
+  - labor-law
+  - china-law
+  - legal-knowledge
+  - jiangsu-zhejiang-shanghai
