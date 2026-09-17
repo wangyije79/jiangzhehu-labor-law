@@ -1,0 +1,36 @@
+{
+ "day": "260928",
+ "topic": "经济性裁员",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "劳动合同法",
+   "article": 41,
+   "verified": true,
+   "note": "经济性裁员"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 42,
+   "verified": true,
+   "note": "禁止解除情形"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 46,
+   "verified": true,
+   "note": "经济补偿情形"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 47,
+   "verified": true,
+   "note": "经济补偿计算"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

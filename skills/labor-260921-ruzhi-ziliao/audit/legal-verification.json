@@ -1,0 +1,30 @@
+{
+ "day": "260921",
+ "topic": "入职资料管理",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "劳动合同法",
+   "article": 8,
+   "verified": true,
+   "note": "如实说明义务"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 39,
+   "verified": true,
+   "note": "欺诈情形下的解除"
+  },
+  {
+   "name": "就业促进法",
+   "article": 26,
+   "verified": true,
+   "note": "禁止就业歧视"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

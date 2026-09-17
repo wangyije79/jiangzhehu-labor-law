@@ -1,0 +1,22 @@
+name: labor-261001-cizhi-guicheng
+title: 员工辞职
+positioning: 辞职的撤回、未提前通知的责任与不辞而别处置
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: eed8c104e12204ae71217b3db7378191c3b09fc7fbef6f58d5164738a56e4caa

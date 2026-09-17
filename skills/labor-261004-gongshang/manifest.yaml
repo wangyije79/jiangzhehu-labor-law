@@ -1,0 +1,22 @@
+name: labor-261004-gongshang
+title: 工伤与停工留薪
+positioning: 停工留薪期待遇、工伤期间解除限制与未参保后果
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 2ebdcd3da5fa4d80fa599cea2332e1f1e7e079447400a43bdd19fcf0597b2bb1

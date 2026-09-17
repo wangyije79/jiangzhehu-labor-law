@@ -1,0 +1,22 @@
+name: labor-260921-ruzhi-ziliao
+title: 入职资料管理
+positioning: 送达地址、体检项目与入职材料留存
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 67034c98c38cbb497e90ea7f38518d825f29834eaf4ac58dc84e419d06a98e58

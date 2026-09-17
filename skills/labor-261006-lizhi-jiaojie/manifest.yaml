@@ -1,0 +1,22 @@
+name: labor-261006-lizhi-jiaojie
+title: 离职交接与证明
+positioning: 交接与工资的关系、离职证明义务与结算协议效力
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 700147d1489ac956d9859738103075c128cf4888fd8c990c71e2002842ee94b6

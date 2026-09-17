@@ -1,0 +1,22 @@
+name: labor-260922-hetong-dingli-1
+title: 劳动合同订立（上）
+positioning: 签约主体资格、合同类型选择与必备条款
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 9221d176da15f6eff691d90579cd91d4766595e218ffcf67db3298d09da8cc06

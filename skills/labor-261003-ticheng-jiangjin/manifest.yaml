@@ -1,0 +1,22 @@
+name: labor-261003-ticheng-jiangjin
+title: 提成与奖金
+positioning: 提成的工资属性、年终奖发放与工资清单义务
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: d0bca365e6caf786983fa55243eb5e14eed58d6cf689587527a089de761cab4d

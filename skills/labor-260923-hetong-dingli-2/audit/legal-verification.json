@@ -1,0 +1,36 @@
+{
+ "day": "260923",
+ "topic": "劳动合同订立（下）",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "劳动合同法",
+   "article": 10,
+   "verified": true,
+   "note": "订立期限"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 82,
+   "verified": true,
+   "note": "二倍工资"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 4,
+   "verified": true,
+   "note": "规章制度民主程序"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 14,
+   "verified": true,
+   "note": "视为无固定期限"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

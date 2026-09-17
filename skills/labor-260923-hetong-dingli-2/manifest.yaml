@@ -1,0 +1,22 @@
+name: labor-260923-hetong-dingli-2
+title: 劳动合同订立（下）
+positioning: 订立期限、员工拒签处置与制度冲突衔接
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: d2a5dccbd8f1882e09cf10b7b3fcdd15639b3d43d776496580af77fd6f7809d2

@@ -1,0 +1,24 @@
+{
+ "day": "260919",
+ "topic": "招聘主体与背景调查",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "劳动合同法",
+   "article": 8,
+   "verified": true,
+   "note": "如实告知与说明义务"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 9,
+   "verified": true,
+   "note": "禁止收取财物与扣押证件"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

@@ -1,0 +1,36 @@
+{
+ "day": "261005",
+ "topic": "年休假",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "职工带薪年休假条例",
+   "article": 3,
+   "verified": true,
+   "note": "年休假天数"
+  },
+  {
+   "name": "职工带薪年休假条例",
+   "article": 5,
+   "verified": true,
+   "note": "统筹安排与跨年"
+  },
+  {
+   "name": "企业职工带薪年休假实施办法",
+   "article": 5,
+   "verified": true,
+   "note": "新入职折算"
+  },
+  {
+   "name": "企业职工带薪年休假实施办法",
+   "article": 10,
+   "verified": true,
+   "note": "未休年假工资"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

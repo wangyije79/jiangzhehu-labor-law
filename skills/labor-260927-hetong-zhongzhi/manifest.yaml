@@ -1,0 +1,22 @@
+name: labor-260927-hetong-zhongzhi
+title: 劳动合同终止
+positioning: 终止与解除的区别、不续签补偿与待岗待遇
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: ee207065d4c640630cebba03f87fb90d6446ff2515b6ee3435e2f49cf5b1ff1b

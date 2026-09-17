@@ -1,0 +1,22 @@
+name: labor-260929-jiaban-gongzi
+title: 加班工资
+positioning: 加班费基数、值班与加班的区分、审批制效力
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 0d2d42076433e772d795811242c736d03fa6d57718ee1d8beffbc9af9bfe539d

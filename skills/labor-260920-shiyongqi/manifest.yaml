@@ -1,0 +1,22 @@
+name: labor-260920-shiyongqi
+title: 试用期合规
+positioning: 试用期期限、工资与解除的法定边界
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: fb7491dbc598517f6673400a47b1c446226cd8c01b9aeb553adc651948fcf7e2

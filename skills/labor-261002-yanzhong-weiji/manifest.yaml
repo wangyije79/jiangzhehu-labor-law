@@ -1,0 +1,22 @@
+name: labor-261002-yanzhong-weiji
+title: 严重违纪解除
+positioning: 违纪解除的证据链、虚假考勤认定与常见错误
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 4b56d22140fccbaee58c9002dd82e859a30ad44fa1ec71e00e8211fff6f28120

@@ -1,0 +1,22 @@
+name: labor-260918-zhaopin-guanggao
+title: 招聘广告合规
+positioning: 招聘广告的法律效力、歧视禁区与录用条件设计
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: fb506f0c4f8b82aebd48d231fd671ae2d298afead8553b8b9cedb7d4b4492563

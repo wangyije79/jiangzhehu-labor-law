@@ -1,0 +1,22 @@
+name: labor-260919-zhaopin-zhuti
+title: 招聘主体与背景调查
+positioning: 如实告知义务、押金证件禁区与背调边界
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 0d63d8e4af2e13b39dd2d2baae59ca621d6cbe4f83f458cb93df8561acfb9709

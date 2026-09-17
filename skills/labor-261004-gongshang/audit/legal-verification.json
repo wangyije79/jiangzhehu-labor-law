@@ -1,0 +1,36 @@
+{
+ "day": "261004",
+ "topic": "工伤与停工留薪",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "工伤保险条例",
+   "article": 33,
+   "verified": true,
+   "note": "停工留薪期"
+  },
+  {
+   "name": "工伤保险条例",
+   "article": 62,
+   "verified": true,
+   "note": "未参保的处理"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 42,
+   "verified": true,
+   "note": "工伤职工的保护"
+  },
+  {
+   "name": "中华人民共和国社会保险法",
+   "article": 58,
+   "verified": true,
+   "note": "社保登记"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

@@ -1,0 +1,48 @@
+{
+ "day": "260918",
+ "topic": "招聘广告合规",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "劳动合同法",
+   "article": 8,
+   "verified": true,
+   "note": "如实告知义务"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 39,
+   "verified": true,
+   "note": "试用期不符合录用条件解除"
+  },
+  {
+   "name": "就业促进法",
+   "article": 3,
+   "verified": true,
+   "note": "平等就业"
+  },
+  {
+   "name": "就业促进法",
+   "article": 26,
+   "verified": true,
+   "note": "禁止就业歧视"
+  },
+  {
+   "name": "就业服务与就业管理规定",
+   "article": 14,
+   "verified": true,
+   "note": "禁止虚假招聘"
+  },
+  {
+   "name": "人力资源市场暂行条例",
+   "article": 24,
+   "verified": true,
+   "note": "招聘信息真实性"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

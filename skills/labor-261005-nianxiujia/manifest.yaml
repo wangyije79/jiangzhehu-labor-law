@@ -1,0 +1,22 @@
+name: labor-261005-nianxiujia
+title: 年休假
+positioning: 年休假天数、未休折算与跨年安排
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 3668b7d32740cf5197d3c39520dba2e30a86bf7740c292aa522af4dee8a04267

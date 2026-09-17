@@ -1,0 +1,42 @@
+{
+ "day": "261007",
+ "topic": "社保缴纳",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "中华人民共和国社会保险法",
+   "article": 58,
+   "verified": true,
+   "note": "社保登记"
+  },
+  {
+   "name": "中华人民共和国社会保险法",
+   "article": 60,
+   "verified": true,
+   "note": "社保缴纳"
+  },
+  {
+   "name": "中华人民共和国社会保险法",
+   "article": 63,
+   "verified": true,
+   "note": "未按时缴纳的处理"
+  },
+  {
+   "name": "中华人民共和国社会保险法",
+   "article": 86,
+   "verified": true,
+   "note": "滞纳金与罚款"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 38,
+   "verified": true,
+   "note": "被迫解除"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

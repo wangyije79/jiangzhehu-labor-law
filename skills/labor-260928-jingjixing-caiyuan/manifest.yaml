@@ -1,0 +1,22 @@
+name: labor-260928-jingjixing-caiyuan
+title: 经济性裁员
+positioning: 裁员的法定情形、程序要件与禁止解除名单
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 24cb1f3ad5bd6b496bef0204684d67b2c3c7c5393a22366e154b1587e5fdff16

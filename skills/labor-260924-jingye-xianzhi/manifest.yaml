@@ -1,0 +1,22 @@
+name: labor-260924-jingye-xianzhi
+title: 竞业限制实操
+positioning: 竞业限制的解除、违约金与报告义务
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 41926502bb51306bdc8c84b359ae7c1d2422f60d01ab51793aa90b29152de687

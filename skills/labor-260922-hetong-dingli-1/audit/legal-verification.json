@@ -1,0 +1,48 @@
+{
+ "day": "260922",
+ "topic": "劳动合同订立（上）",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "劳动合同法",
+   "article": 10,
+   "verified": true,
+   "note": "订立书面合同的期限"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 12,
+   "verified": true,
+   "note": "合同类型"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 13,
+   "verified": true,
+   "note": "固定期限合同"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 14,
+   "verified": true,
+   "note": "无固定期限合同"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 17,
+   "verified": true,
+   "note": "必备条款"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 82,
+   "verified": true,
+   "note": "未订立书面合同的责任"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}

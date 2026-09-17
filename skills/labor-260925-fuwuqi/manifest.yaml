@@ -1,0 +1,22 @@
+name: labor-260925-fuwuqi
+title: 专项培训与服务期
+positioning: 服务期的约定要件、违约金算法与期限冲突
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 8a73f8346174978a53c6b20c009f555ea32148a807a44179b8eba5e69677bde5

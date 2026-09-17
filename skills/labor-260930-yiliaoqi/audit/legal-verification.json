@@ -1,0 +1,36 @@
+{
+ "day": "260930",
+ "topic": "医疗期与病假",
+ "generated": "2026-09-18",
+ "law_verified_date": "2026-09-18",
+ "law_source": "北大法宝（pkulaw）MCP",
+ "laws": [
+  {
+   "name": "企业职工患病或非因工负伤医疗期规定",
+   "article": 3,
+   "verified": true,
+   "note": "医疗期期限"
+  },
+  {
+   "name": "企业职工患病或非因工负伤医疗期规定",
+   "article": 4,
+   "verified": true,
+   "note": "医疗期计算"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 40,
+   "verified": true,
+   "note": "医疗期满解除"
+  },
+  {
+   "name": "劳动合同法",
+   "article": 42,
+   "verified": true,
+   "note": "医疗期保护"
+  }
+ ],
+ "cases_region": "上海 / 江苏 / 浙江",
+ "cases_verified_date": "2026-09-18",
+ "notes": "法条逐字回库核验；案例来自公开裁判文书检索，地域限江浙沪。"
+}
